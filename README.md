@@ -2,7 +2,10 @@
 
 ## **Parental Education - King’s College Hospital Paediatric Liver Service**
 
+<br>
 
+
+![](images/app.png)
 
 This project was completed as part of the *Software Engineering* (SEG) module in the second year of the Computer Science BSc at King's College London (2019-20).
 
@@ -26,6 +29,14 @@ While the source code is not open-source, this repository contains the deliverab
 * Readability and accessibility of the User  Interface.
 * Accessible database of medicines.
 * Custom drug charts that can be then downloaded or printed. 
+
+<br> 
+
+![](images/overview.png)
+
+<br>
+
+![](images/bulletin_board.png)
 
 
 <br>
